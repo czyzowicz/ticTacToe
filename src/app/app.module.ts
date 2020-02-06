@@ -20,7 +20,7 @@ import { NbThemeModule, NbLayoutModule, NbButtonModule } from '@nebular/theme';
     BrowserAnimationsModule,
     NbThemeModule.forRoot({ name: 'cosmic' }),
     NbLayoutModule,
-    NbButtonModule
+    NbButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
